@@ -10,7 +10,7 @@ This project analyzes the famous Titanic dataset using a Random Forest Classifie
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/menna611/titanic.git
 
 ## 🔍 Features
 
