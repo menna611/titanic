@@ -6,6 +6,12 @@ This project analyzes the famous Titanic dataset using a Random Forest Classifie
 
 - `task.ipynb`: Main colab Notebook containing data preprocessing, visualization, model training, and evaluation.
 
+ ## 🚀 How to Run
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/your-repo-name.git
+
 ## 🔍 Features
 
 - Data cleaning and preprocessing
