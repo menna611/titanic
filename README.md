@@ -22,7 +22,7 @@ This project analyzes the famous Titanic dataset using a Random Forest Classifie
 - Model evaluation using confusion matrix and accuracy score
 
 ## 🧰 Tech Stack
-
+- streamlit
 - Python
 - Pandas
 - NumPy
@@ -47,3 +47,4 @@ This project analyzes the famous Titanic dataset using a Random Forest Classifie
 ## 📌 Note
 
 https://colab.research.google.com/drive/1qqyW-mif6lhm1YXF8STV8Fxo-rB4PuSw?usp=sharing
+streamlit link: http://192.168.1.46:8501
