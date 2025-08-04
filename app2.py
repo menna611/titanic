@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load Titanic data
-df = pd.read_csv('C:\\Users\\Incorta\\Desktop\\m\\train.csv')
+df = pd.read_csv('train.csv')
 
 
 # Title
@@ -21,4 +21,5 @@ st.plotly_chart(fig)
 
 # Display basic data table
 st.write(filtered_df.head())
+
 
